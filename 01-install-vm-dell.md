@@ -53,13 +53,13 @@
 
 ## 🖧 Hostname
 
-- 🖥️ **Hostname Set**: ___________________________
+- 🖥️ **Hostname Set**: FDT6510301019
 
 ---
 
 ## 👤 User Account
 
-- 👨‍💻 **Username Created**: ___________________________
+- 👨‍💻 **Username Created**: U6510301019
 - 🔐 **Is a Root Password Set?**:  
   - [X] Yes  
   - [ ] No
